@@ -1,0 +1,26 @@
+[
+  {
+    "package": "PurpleAir",
+    "url": "https://github.com/cole-brokamp/PurpleAir"
+  },
+  {
+    "package": "dpkg",
+    "url": "https://github.com/cole-brokamp/dpkg"
+  },
+  {
+    "package": "fr",
+    "url": "https://github.com/cole-brokamp/fr"
+  },
+  {
+    "package": "mappp",
+    "url": "https://github.com/cole-brokamp/mappp"
+  },
+  {
+    "package": "automagic",
+    "url": "https://github.com/cole-brokamp/automagic"
+  },
+  {
+    "package": "s3",
+    "url": "https://github.com/brokamp-group/s3"
+  }
+]
