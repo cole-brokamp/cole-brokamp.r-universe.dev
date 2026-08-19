@@ -1,26 +1,42 @@
 [
   {
+    "package": "stow",
+    "url": "https://github.com/cole-brokamp/stow",
+        "branch": "*release"
+  },
+  {
+    "package": "needenv",
+    "url": "https://github.com/cole-brokamp/needenv",
+        "branch": "*release"
+  },
+  {
     "package": "PurpleAir",
-    "url": "https://github.com/cole-brokamp/PurpleAir"
+    "url": "https://github.com/cole-brokamp/PurpleAir",
+        "branch": "*release"
   },
   {
     "package": "dpkg",
-    "url": "https://github.com/cole-brokamp/dpkg"
+    "url": "https://github.com/cole-brokamp/dpkg",
+        "branch": "*release"
   },
   {
     "package": "fr",
-    "url": "https://github.com/cole-brokamp/fr"
+    "url": "https://github.com/cole-brokamp/fr",
+        "branch": "*release"
   },
   {
     "package": "mappp",
-    "url": "https://github.com/cole-brokamp/mappp"
+    "url": "https://github.com/cole-brokamp/mappp",
+        "branch": "*release"
   },
   {
     "package": "automagic",
-    "url": "https://github.com/cole-brokamp/automagic"
+    "url": "https://github.com/cole-brokamp/automagic",
+        "branch": "*release"
   },
   {
     "package": "s3",
-    "url": "https://github.com/brokamp-group/s3"
+    "url": "https://github.com/brokamp-group/s3",
+        "branch": "*release"
   }
 ]
